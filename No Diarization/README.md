@@ -17,13 +17,7 @@ Un'interfaccia web semplice e intuitiva per trascrivere e tradurre file audio ut
 
 ## 🛠️ Installazione
 
-### 1. Clona il repository
-```bash
-git clone https://github.com/tuo-utente/whisper-gui.git
-cd whisper-gui
-```
-
-### 2. Crea un ambiente virtuale e attivalo
+### 1. Crea un ambiente virtuale e attivalo
 
 **Linux/macOS:**
 ```bash
@@ -37,7 +31,7 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-### 3. Installa le dipendenze
+### 2. Installa le dipendenze
 ```bash
 pip install --upgrade pip
 pip install -r requirements.txt
