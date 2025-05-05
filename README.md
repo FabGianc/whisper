@@ -7,7 +7,7 @@ Una semplice interfaccia web per la trascrizione automatica di file audio basata
 
 - Trascrizione di file audio in diverse lingue
 - Identificazione automatica della lingua
-- Traduzione in inglese (opzionale)
+- Traduzione in inglese (solo)
 - Elaborazione **completamente offline**
 - Interfaccia user-friendly basata su Streamlit
 
