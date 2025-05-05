@@ -7,7 +7,7 @@
 
 ---
 
-# 🎙️No Diarization -> Whisper GUI – Trascrizione Audio con Interfaccia Streamlit
+## 🎙️No Diarization -> Whisper GUI – Trascrizione Audio con Interfaccia Streamlit
 
 Un'interfaccia web semplice e intuitiva per trascrivere e tradurre file audio utilizzando il modello [Whisper](https://github.com/openai/whisper) di OpenAI, realizzata con [Streamlit](https://streamlit.io/).
 
