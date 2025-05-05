@@ -21,7 +21,7 @@ Un'interfaccia web semplice e intuitiva per trascrivere e tradurre file audio ut
 
 Questa versione dell'app utilizza **OpenAI Whisper** per la trascrizione automatica e **pyannote.audio** per la diarizzazione dei parlanti, integrando anche **SpeechBrain** per il riconoscimento vocale avanzato.
 
-È pensata per sistemi **con almeno 8–12 GB di RAM**, preferibilmente con GPU.
+✅È pensata per sistemi **con almeno 8–12 GB di RAM**, preferibilmente con GPU.
 
 ---
 
