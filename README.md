@@ -1,6 +1,22 @@
 
-# ✍️ Whisper Transcription
+# 🗣️ Whisper Transcription
 
+Una semplice interfaccia web per la trascrizione automatica di file audio basata su [Whisper](https://github.com/openai/whisper) di OpenAI, con elaborazione **locale** e interfaccia grafica realizzata in **Streamlit**.
+
+## 🚀 Funzionalità
+
+- Trascrizione di file audio in diverse lingue
+- Identificazione automatica della lingua
+- Traduzione in inglese (opzionale)
+- Elaborazione **completamente offline**
+- Interfaccia user-friendly basata su Streamlit
+
+## 🛠️ Requisiti
+
+- Python 3.8+
+- Pytorch (con supporto CUDA consigliato per prestazioni migliori)
+- `whisper` (OpenAI)
+- `streamlit`
 ---
 
 ## 🎙️No Diarization -> Whisper GUI – Trascrizione Audio con Interfaccia Streamlit
@@ -29,7 +45,7 @@ Questa versione dell'app utilizza:
 
 ---
 
-## 🎧 light -> Whisper Speaker Diarization (Light Edition)
+## 🎙️ light -> Whisper Speaker Diarization (Light Edition)
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Whisper--Light-green)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
