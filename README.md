@@ -25,15 +25,16 @@ Questa versione dell'app utilizza **OpenAI Whisper** per la trascrizione automat
 
 ---
 
-## 📁 File
+## 🎧 light -> Whisper Speaker Diarization (Light Edition)
 
-- `streamlit_whisper_transcribe_only.py`
-- `requirements.txt`
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Whisper--Light-green)](https://streamlit.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 
----
+Questa è la versione leggera dell'app Streamlit per trascrizione + diarizzazione con:
 
-## 🔖 Requisiti
+- [Whisper](https://github.com/openai/whisper) per la trascrizione
+- [pyannote.audio](https://github.com/pyannote/pyannote-audio) per la diarizzazione dei parlanti
 
-- Python 3.8+
-- ffmpeg installato
-- Non richiede token Hugging Face
+✅ Ottimizzato per funzionare su sistemi con risorse limitate (senza GPU)
+✅ Nessun uso di SpeechBrain
