@@ -13,7 +13,7 @@ Un'interfaccia web semplice e intuitiva per trascrivere e tradurre file audio ut
 
 ---
 
-# 🎙️ Whisper + Speaker Diarization (Versione Completa)
+## 🎙️ full -> Whisper + Speaker Diarization (Versione Completa)
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Whisper--Diarization-brightgreen)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
