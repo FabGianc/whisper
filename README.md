@@ -1,19 +1,15 @@
 
-# ✍️ Whisper Transcription (No Diarization)
+# ✍️ Whisper Transcription
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Whisper--Transcription-orange)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 
-Interfaccia minimal per trascrivere e tradurre file audio usando OpenAI Whisper.
-
 ---
 
-## ✅ Funzionalità
+# 🎙️No Diarization -> Whisper GUI – Trascrizione Audio con Interfaccia Streamlit
 
-- Trascrizione nella lingua originale
-- Traduzione automatica verso inglese
-- Download di `.txt`, `.srt`, `.json`, `.csv`
+Un'interfaccia web semplice e intuitiva per trascrivere e tradurre file audio utilizzando il modello [Whisper](https://github.com/openai/whisper) di OpenAI, realizzata con [Streamlit](https://streamlit.io/).
 
 ---
 
