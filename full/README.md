@@ -31,7 +31,7 @@ source venv/bin/activate
 
 ### 2. Installa i requisiti
 ```bash
-pip install -r requirements_full.txt
+pip install -r requirements.txt
 ```
 
 ---
