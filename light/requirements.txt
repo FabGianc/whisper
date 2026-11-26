@@ -1,0 +1,8 @@
+
+streamlit
+git+https://github.com/openai/whisper.git
+langcodes
+pydub
+pyannote.audio
+huggingface_hub
+srt

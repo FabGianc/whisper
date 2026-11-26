@@ -22,7 +22,7 @@ Una semplice interfaccia web per la trascrizione automatica di file audio basata
 ## 🎙️No Diarization -> Whisper GUI – Trascrizione Audio con Interfaccia Streamlit
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Whisper--Transcription-orange)](https://streamlit.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 
 Un'interfaccia web semplice e intuitiva per trascrivere e tradurre file audio utilizzando il modello [Whisper](https://github.com/openai/whisper) di OpenAI, realizzata con [Streamlit](https://streamlit.io/).
@@ -32,7 +32,7 @@ Un'interfaccia web semplice e intuitiva per trascrivere e tradurre file audio ut
 ## 🎙️ full -> Whisper + Speaker Diarization (Versione Completa)
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Whisper--Diarization-brightgreen)](https://streamlit.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 
 Questa versione dell'app utilizza:
@@ -48,7 +48,7 @@ Questa versione dell'app utilizza:
 ## 🎙️ light -> Whisper Speaker Diarization (Light Edition)
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Whisper--Light-green)](https://streamlit.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 
 Questa è la versione leggera dell'app Streamlit per trascrizione + diarizzazione con:

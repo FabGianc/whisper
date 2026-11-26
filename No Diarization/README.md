@@ -72,7 +72,7 @@ Le trascrizioni verranno salvate nella cartella `trascrizioni_salvate/` nei form
 
 ## 📄 Licenza
 
-Questo progetto è distribuito sotto licenza MIT. Vedi il file `LICENSE` per maggiori dettagli.
+Questo progetto è distribuito sotto licenza GNU GPL v3. Vedi il file [`LICENSE`](../LICENSE) per maggiori dettagli.
 
 ---
 

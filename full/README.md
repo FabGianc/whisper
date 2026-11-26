@@ -2,7 +2,7 @@
 # 🎙️ Whisper + Speaker Diarization (Versione Completa)
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Whisper--Diarization-brightgreen)](https://streamlit.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](../LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 
 Questa versione dell'app utilizza **OpenAI Whisper** per la trascrizione automatica e **pyannote.audio** per la diarizzazione dei parlanti, integrando anche **SpeechBrain** per il riconoscimento vocale avanzato.
@@ -78,5 +78,5 @@ streamlit run streamlit_whisper_diarization.py
 
 ## 📃 Licenza
 
-Distribuito sotto licenza **MIT**.  
+Distribuito sotto licenza **GNU GPL v3** (vedi [`LICENSE`](../LICENSE)).  
 Rispettare le licenze di Whisper, pyannote.audio, SpeechBrain e altri tool open source utilizzati.

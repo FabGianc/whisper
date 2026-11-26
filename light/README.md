@@ -2,7 +2,7 @@
 # 🎧 Whisper Speaker Diarization (Light Edition)
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Whisper--Light-green)](https://streamlit.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](../LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 
 Questa è la versione leggera dell'app Streamlit per trascrizione + diarizzazione con:
@@ -59,4 +59,4 @@ streamlit run whisper_diarization_standalone.py
 
 ## 🧾 Licenza
 
-Licenza MIT. Basato su software open source: OpenAI Whisper, Pyannote, Streamlit.
+Licenza GNU GPL v3 (vedi [`LICENSE`](../LICENSE)). Basato su software open source: OpenAI Whisper, Pyannote, Streamlit.
